@@ -1,0 +1,218 @@
+[
+    {
+        "timestamp": "2023-10-27 10:00:00",
+        "Daily_Minutes_Spent": 120,
+        "Posts_Per_Day": 5,
+        "Likes_Per_Day": 50,
+        "Follows_Per_Day": 10,
+        "prediction": "Normal User",
+        "confidence": 0.85
+    },
+    {
+        "timestamp": "2026-01-08 23:55:35",
+        "Daily_Minutes_Spent": 120.0,
+        "Posts_Per_Day": 5,
+        "Likes_Per_Day": 50,
+        "Follows_Per_Day": 10,
+        "prediction": "Normal User",
+        "confidence": 0.019486335959306142
+    },
+    {
+        "timestamp": "2026-01-08 23:59:59",
+        "Daily_Minutes_Spent": 120.0,
+        "Posts_Per_Day": 5,
+        "Likes_Per_Day": 50,
+        "Follows_Per_Day": 10,
+        "prediction": "Normal User",
+        "confidence": 0.019486335959306142
+    },
+    {
+        "timestamp": "2026-01-09 00:01:28",
+        "Daily_Minutes_Spent": 120.0,
+        "Posts_Per_Day": 5,
+        "Likes_Per_Day": 50,
+        "Follows_Per_Day": 10,
+        "prediction": "Normal User",
+        "confidence": 0.019486335959306142
+    },
+    {
+        "timestamp": "2026-01-09 00:01:56",
+        "Daily_Minutes_Spent": 250.0,
+        "Posts_Per_Day": 0,
+        "Likes_Per_Day": 0,
+        "Follows_Per_Day": 2,
+        "prediction": "Normal User",
+        "confidence": 0.0012083969855575293
+    },
+    {
+        "timestamp": "2026-01-09 00:20:11",
+        "Daily_Minutes_Spent": 120.0,
+        "Posts_Per_Day": 5,
+        "Likes_Per_Day": 50,
+        "Follows_Per_Day": 10,
+        "prediction": "Normal User",
+        "confidence": 0.019486335959306142
+    },
+    {
+        "timestamp": "2026-01-16 14:40:52",
+        "Daily_Minutes_Spent": 120.0,
+        "Posts_Per_Day": 5,
+        "Likes_Per_Day": 50,
+        "Follows_Per_Day": 10,
+        "prediction": "Normal User",
+        "confidence": 0.019486335959306142
+    },
+    {
+        "timestamp": "2026-01-16 14:41:55",
+        "Daily_Minutes_Spent": 120.0,
+        "Posts_Per_Day": 5,
+        "Likes_Per_Day": 50,
+        "Follows_Per_Day": 10,
+        "prediction": "Normal User",
+        "confidence": 0.019486335959306142
+    },
+    {
+        "timestamp": "2026-01-16 15:20:08",
+        "Daily_Minutes_Spent": 120.0,
+        "Posts_Per_Day": 5,
+        "Likes_Per_Day": 50,
+        "Follows_Per_Day": 10,
+        "prediction": "Normal User",
+        "confidence": 0.019486335959306142
+    },
+    {
+        "timestamp": "2026-01-16 15:20:39",
+        "Daily_Minutes_Spent": 120.0,
+        "Posts_Per_Day": 5,
+        "Likes_Per_Day": 50,
+        "Follows_Per_Day": 10,
+        "prediction": "Normal User",
+        "confidence": 0.019486335959306142
+    },
+    {
+        "timestamp": "2026-01-16 15:29:22",
+        "Daily_Minutes_Spent": 120.0,
+        "Posts_Per_Day": 5,
+        "Likes_Per_Day": 50,
+        "Follows_Per_Day": 10,
+        "prediction": 0,
+        "confidence": 0.02
+    },
+    {
+        "timestamp": "2026-01-16 15:29:55",
+        "Daily_Minutes_Spent": 920.0,
+        "Posts_Per_Day": 0,
+        "Likes_Per_Day": 15,
+        "Follows_Per_Day": 2,
+        "prediction": 0,
+        "confidence": 0.0
+    },
+    {
+        "timestamp": "2026-01-16 15:31:41",
+        "Daily_Minutes_Spent": 920.0,
+        "Posts_Per_Day": 20,
+        "Likes_Per_Day": 15,
+        "Follows_Per_Day": 2,
+        "prediction": 1,
+        "confidence": 0.6
+    },
+    {
+        "timestamp": "2026-01-16 15:31:54",
+        "Daily_Minutes_Spent": 920.0,
+        "Posts_Per_Day": 20,
+        "Likes_Per_Day": 85,
+        "Follows_Per_Day": 100,
+        "prediction": 1,
+        "confidence": 1.0
+    },
+    {
+        "timestamp": "2026-01-16 15:32:20",
+        "Daily_Minutes_Spent": 920.0,
+        "Posts_Per_Day": 20,
+        "Likes_Per_Day": 85,
+        "Follows_Per_Day": 100,
+        "prediction": 1,
+        "confidence": 1.0
+    },
+    {
+        "timestamp": "2026-01-16 16:00:26",
+        "Daily_Minutes_Spent": 120.0,
+        "Posts_Per_Day": 5,
+        "Likes_Per_Day": 50,
+        "Follows_Per_Day": 10,
+        "prediction": 0,
+        "confidence": 0.02
+    },
+    {
+        "timestamp": "2026-01-16 16:00:45",
+        "Daily_Minutes_Spent": 560.0,
+        "Posts_Per_Day": 0,
+        "Likes_Per_Day": 42,
+        "Follows_Per_Day": 48,
+        "prediction": 0,
+        "confidence": 0.17
+    },
+    {
+        "timestamp": "2026-01-16 18:22:59",
+        "Daily_Minutes_Spent": 120.0,
+        "Posts_Per_Day": 5,
+        "Likes_Per_Day": 50,
+        "Follows_Per_Day": 10,
+        "prediction": 0,
+        "confidence": 0.02
+    },
+    {
+        "timestamp": "2026-05-10 16:09:35",
+        "Daily_Minutes_Spent": 120.0,
+        "Posts_Per_Day": 5,
+        "Likes_Per_Day": 50,
+        "Follows_Per_Day": 10,
+        "prediction": 0,
+        "confidence": 0.02
+    },
+    {
+        "timestamp": "2026-05-10 16:10:05",
+        "Daily_Minutes_Spent": 120.0,
+        "Posts_Per_Day": 5,
+        "Likes_Per_Day": 50,
+        "Follows_Per_Day": 10,
+        "prediction": 0,
+        "confidence": 0.02
+    },
+    {
+        "timestamp": "2026-05-10 16:10:30",
+        "Daily_Minutes_Spent": 600.0,
+        "Posts_Per_Day": 5,
+        "Likes_Per_Day": 150,
+        "Follows_Per_Day": 25,
+        "prediction": 0,
+        "confidence": 0.1
+    },
+    {
+        "timestamp": "2026-05-10 16:10:33",
+        "Daily_Minutes_Spent": 600.0,
+        "Posts_Per_Day": 5,
+        "Likes_Per_Day": 150,
+        "Follows_Per_Day": 25,
+        "prediction": 0,
+        "confidence": 0.1
+    },
+    {
+        "timestamp": "2026-05-10 16:10:38",
+        "Daily_Minutes_Spent": 600.0,
+        "Posts_Per_Day": 20,
+        "Likes_Per_Day": 150,
+        "Follows_Per_Day": 25,
+        "prediction": 1,
+        "confidence": 0.96
+    },
+    {
+        "timestamp": "2026-11-13 16:30:19",
+        "Daily_Minutes_Spent": 120.0,
+        "Posts_Per_Day": 5,
+        "Likes_Per_Day": 50,
+        "Follows_Per_Day": 10,
+        "prediction": 0,
+        "confidence": 0.02
+    }
+]
